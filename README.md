@@ -1,62 +1,139 @@
-Exp:7-  Reproducing an Image Using Prompts for Image Generation
+# Experiment 7 - Reproducing an Image Using Prompts for Image Generation
 
-Aim:
+## Aim
 
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts.
 
-Objective:
+## Objective
 
-To identify key elements within a reference image and use prompt engineering techniques to generate an image as close as possible to the original image using AI image generation tools.
+To identify key visual elements within a reference image and use prompt engineering techniques to generate an image as close as possible to the original image using AI image generation tools.
 
-Experiment:
-Learners must:
+## AI Tool Used
 
-Analyze the provided reference image.
-Reference Image:- 
+* ChatGPT Image Generation
+* Gemini
+* Bing Image Creator
+* Leonardo AI
+* MidJourney
+
+## Reference Images
+
+### Butterfly Coloring Page
+
 https://www.wechasethecolor.com/wp-content/uploads/2025/04/butterfly-coloring-pages.png
+
+### Product Launch Poster
 
 https://images.template.net/292657/Product-Launch-Poster-Template-edit-online.jpg
 
+---
 
-Identify important visual elements such as:
+## Algorithm
 
-i)Objects/Subject
-ii)Background
-iii)Lighting
-iv)Style
-v)Color combinations
-vi)Camera Quality
-Create prompts for image generation tools.
-Generate refined outputs using prompt engineering techniques.
-Compare generated images with the original image.
+### Step 1
 
-AI tools that can be used:
-ChatGPT Image Generation
-Gemini
-Bing Image Creator
-Leonardo AI
-Canva AI
-Midjourney
+Select the reference image.
 
-Algorithm:
-Step 1: Select the Reference Image
-Choose or use the provided image for reproduction.
-Step 2: Analyze the Image
-Identify major components and visual details.
-Step 3: Create Initial Prompt
-Write a basic text-to-image prompt.
-Step 4: Generate Initial Output
-Use AI image generation tool to generate the image.
-Step 5: Refine the Prompt
-Improve the prompt using detailed descriptions.
-Add style, lighting, texture, and composition details.
-Step 6: Generate Final Output
-Produce improved image output.
-Step 7: Compare the Results
-Compare original and generated images.
-Document differences and improvements.
+### Step 2
 
-Output:
+Analyze the image and identify important visual elements.
 
-Result:
-Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
+### Step 3
+
+Create an initial prompt.
+
+### Step 4
+
+Generate an image using an AI image generation tool.
+
+### Step 5
+
+Refine the prompt by adding more details.
+
+### Step 6
+
+Generate the final image.
+
+### Step 7
+
+Compare the generated image with the original image.
+
+---
+
+## Image Analysis
+
+### Object/Subject
+
+* Large butterfly
+* Symmetrical wings
+* Decorative patterns inside wings
+
+### Background
+
+* Plain white background
+* No additional objects
+
+### Lighting
+
+* Flat lighting
+* No shadows
+
+### Style
+
+* Coloring book style
+* Black and white line art
+
+### Color Combination
+
+* No colors
+* Outline drawing only
+
+### Image Quality
+
+* High resolution
+* Clean and sharp outlines
+
+---
+
+## Initial Prompt
+
+"Draw a butterfly coloring page."
+
+### Initial Output
+
+The generated image contained a butterfly but lacked detailed wing patterns and symmetry.
+
+---
+
+## Refined Prompt
+
+"Create a high-resolution black and white coloring book page featuring a large symmetrical butterfly centered on a plain white background. The butterfly should have detailed decorative wing patterns, clean bold outlines, intricate shapes, child-friendly design, no shading, no colors, vector-style line art suitable for printing and coloring."
+
+### Final Output
+
+The generated image closely resembled the reference image with improved symmetry, detailed wing patterns, and clean coloring-book style outlines.
+
+---
+
+## Comparison Table
+
+| Feature             | Original Image | Initial Output | Refined Output |
+| ------------------- | -------------- | -------------- | -------------- |
+| Butterfly Shape     | Present        | Present        | Present        |
+| Symmetry            | High           | Medium         | High           |
+| Wing Details        | High           | Low            | High           |
+| Coloring Book Style | Yes            | Partial        | Yes            |
+| Plain Background    | Yes            | Yes            | Yes            |
+| Print Quality       | High           | Medium         | High           |
+
+---
+
+## Observation
+
+The initial prompt generated a basic butterfly image. After refining the prompt with detailed descriptions regarding style, symmetry, patterns, and image quality, the generated image became much closer to the original reference image.
+
+---
+
+## Result
+
+Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools through effective prompt engineering and iterative refinement.
